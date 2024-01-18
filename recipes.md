@@ -90,6 +90,7 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
+## Desserts
 ### Chocolate Chip Cookies
 
 Ingredients:
@@ -114,7 +115,7 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 
-### Desserts
+### Sweet Potato Soup
 
 Ingreidents:
 - 2 slices gingers
