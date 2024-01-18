@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Sweet Potato Soup](#sweet-potato-soup)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
