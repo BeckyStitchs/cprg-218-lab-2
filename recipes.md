@@ -90,7 +90,6 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
-## Desserts
 ### Chocolate Chip Cookies
 
 Ingredients:
@@ -114,3 +113,17 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Desserts
+
+Ingreidents:
+- 2 slices gingers
+- 500ml water
+- 2 sweet potatos
+- 3 pieces borwn sugar slabs
+
+Instructions:
+1. Smash the ginger using the flat side of a meat mallet or a large flat knife like a cleaver.
+2. Peel then cut the sweet potatoes into large chunks. You can either slice it down cleanly or wedge the cleaver 1/3 of the way in and break the rest off. By doing the latter technique, you’ll create more texture for every bite.
+3. Bring the water to a boil and add the sweet potatoes and ginger. Let it simmer for 10 minutes on medium heat.
+4. Add the brown sugar slabs in and let it cook for another 5 minutes or until the ingredients have softened to preference.
